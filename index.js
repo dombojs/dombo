@@ -31,3 +31,5 @@ $.use({
         return this.addClass('u-isHidden');
     }
 });
+
+module.exports = $;
